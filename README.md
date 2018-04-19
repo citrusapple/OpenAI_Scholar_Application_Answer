@@ -1,6 +1,11 @@
 # OpenAI_Scholar_Application_Answer
 This is a response to a challenge code within the 2018 application for OpenAI's Scholar Program.  I was among the top 5% of applicants.
 
+Task/ Prompt given:
+
+given a function that calls up to 5 usernames (that matches user inputted prefix) in any given database, recall the entire database when you only have access to this function and not the database itself.
+
+
 This is my logic for the code
 
     here's our recursive function, which will iterate through a-z progressively until all possibilities have been checked.
