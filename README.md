@@ -1,4 +1,8 @@
 # OpenAI_Scholar_Application_Answer
+
+
+<img src="https://github.com/citrusapple/OpenAI_Scholar_Application_Answer/blob/master/openaiapplication.png" alt="openai logo" height = "200">
+
 This is a response to a challenge code within the 2018 application for OpenAI's Scholar Program.  I was among the top 5% of applicants.
 
 Task/ Prompt given:
@@ -35,3 +39,4 @@ This is my logic for the code
     testcase 1: what was given with the assignment
     testcase 2: a list of many users with "username" + a-z to test how far the recursion can go
     testcase 3: empty list, in case there are no users.
+
